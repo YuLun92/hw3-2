@@ -1,0 +1,5 @@
+﻿  5-35.c
+c:\users\吳育綸\desktop\hw3-2\5-35\5-35\5-35.c(13): warning C4477: 'printf' : 格式字串 '%u' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  c:\users\吳育綸\desktop\hw3-2\5-35\5-35\5-35.c(13): note: 請考慮在格式字串中使用 '%llu'
+  c:\users\吳育綸\desktop\hw3-2\5-35\5-35\5-35.c(13): note: 請考慮在格式字串中使用 '%I64u'
+  5-35.vcxproj -> C:\Users\吳育綸\Desktop\hw3-2\5-35\Debug\5-35.exe
